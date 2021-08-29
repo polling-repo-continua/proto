@@ -9,5 +9,5 @@ python3 proto.py -l alive.txt
 ### Requirements
 1. Selenium
 2. Google Chrome Webdriver
- 
- Twitter : @muh3ammed
+
+**Note : Edit the webdriver location**
